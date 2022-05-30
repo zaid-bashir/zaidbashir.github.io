@@ -6,7 +6,7 @@ export const greetings = {
 	description:
 		"I'm passionate Full Stack Mobile App developer having an experience of building high performance Cross Platform Mobile Apps using Google's UI Kit Flutter",
 	resumeLink:
-		"https://drive.google.com/file/d/1IM3ftZt0q1Cq9iH6sd_STyiWmBGzdZLG/view?usp=sharing",
+		"https://drive.google.com/file/d/1I-hDooXAyS5gFfFlsCzrhXIG_C60fYxG/view?usp=sharing",
 };
 
 export const openSource = {
